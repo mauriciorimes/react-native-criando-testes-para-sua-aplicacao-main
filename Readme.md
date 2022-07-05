@@ -1,0 +1,1 @@
+Um app mobile usando React Native feito para usar conceitos de teste, usando Jest.

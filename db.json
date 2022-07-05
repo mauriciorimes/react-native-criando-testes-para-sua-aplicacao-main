@@ -1,0 +1,97 @@
+{
+  "leiloes": [
+    {
+      "id": 1,
+      "nome": "Samsung Smart TV 50",
+      "descricao": "UHD 4K 50AU7700\"",
+      "valorInicial": 1500,
+      "icone": "tv",
+      "cor": "#2C3639"
+    },
+    {
+      "id": 2,
+      "nome": "Nintendo Swtich Lite",
+      "descricao": "Versão Nacional",
+      "valorInicial": 900,
+      "icone": "cheese",
+      "cor": "#6E85B7"
+    },
+    {
+      "id": 3,
+      "nome": "Isqueiro Elétrico de Plasma",
+      "descricao": "Recarregável USB",
+      "valorInicial": 50,
+      "icone": "fire",
+      "cor": "#FF8B8B"
+    },
+    {
+      "id": 4,
+      "nome": "Console Xbox Series S",
+      "descricao": "500gb Ssd",
+      "valorInicial": 1300,
+      "icone": "cube",
+      "cor": "#C4DFAA"
+    },
+    {
+      "id": 5,
+      "nome": "Notebook Gamer Dell G15",
+      "descricao": "Amd Ryzen 7 16gb 512gb Ssd Nvidia Rtx 3060",
+      "valorInicial": 10000,
+      "icone": "laptop",
+      "cor": "#34B3F1"
+    },
+    {
+      "id": 6,
+      "nome": "Tablet Mi Pad 5",
+      "descricao": "6gb Ram + 128gb",
+      "valorInicial": 1800,
+      "icone": "tablet-alt",
+      "cor": "#F9F2ED"
+    },
+    {
+      "id": 7,
+      "nome": "Chevrolet Onix",
+      "descricao": "BRANCO SUMMIT",
+      "valorInicial": 60000,
+      "icone": "car",
+      "cor": "#F2D1D1"
+    }
+  ],
+  "lances": [
+    {
+      "valor": 1000,
+      "leilaoId": 1,
+      "id": 1
+    },
+    {
+      "valor": 1000.01,
+      "leilaoId": 1,
+      "id": 2
+    },
+    {
+      "valor": 800.01,
+      "leilaoId": 3,
+      "id": 3
+    },
+    {
+      "valor": 800.02,
+      "leilaoId": 3,
+      "id": 4
+    },
+    {
+      "valor": 1000,
+      "leilaoId": 2,
+      "id": 5
+    },
+    {
+      "valor": 1200,
+      "leilaoId": 2,
+      "id": 6
+    },
+    {
+      "valor": 1500,
+      "leilaoId": 4,
+      "id": 7
+    }
+  ]
+}
